@@ -10,5 +10,8 @@ navigation:
   - name: QUEM SOMOS
     id: 1b1fe874-b0f5-44d8-9cfa-983d03ab2225
     type: content
+  - name: POMAR
+    id: 34c2f9a3-0bb1-46ce-b4cc-a54c77202826
+    type: content
 title: Ao ritmo dos ciclos da vida
 description: ''
