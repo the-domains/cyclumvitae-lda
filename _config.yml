@@ -1,10 +1,10 @@
-layout_spectrum: 0.489071287214756
 typography_spectrum: 0.9372658792417496
 color:
   brandStrength: 0.8576900432817638
   lightness: 0.2512296517379582
   saturation: 0.7452396710868925
   rhythmicContrast: 0.7329347562044859
+layout_spectrum: 0.489071287214756
 name: 'Cyclumvitae, Lda'
 navigation:
   - name: QUEM SOMOS
@@ -13,3 +13,4 @@ navigation:
   - name: POMAR
     id: 34c2f9a3-0bb1-46ce-b4cc-a54c77202826
     type: content
+description: Ao ritmo dos ciclos da vida
